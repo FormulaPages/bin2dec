@@ -1,6 +1,6 @@
 {
   "name": "formula-bin2dec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "BIN2DEC.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FormulaPages/bin2dec/issues"
   },
-  "homepage": "https://github.com/FormulaPages/bin2dec#readme"
+  "homepage": "https://github.com/FormulaPages/bin2dec#readme",
+  "dependencies": {
+    "formula-errors": "^1.0.0"
+  }
 }
