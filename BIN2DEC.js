@@ -8,7 +8,7 @@
             exports: {}
         };
         factory(mod.exports, mod, global.error);
-        global.BIN2DEC = mod.exports;
+        global.unknown = mod.exports;
     }
 })(this, function (exports, module, _formulaErrors) {
     "use strict";
@@ -43,3 +43,4 @@
 
     ;
 });
+
